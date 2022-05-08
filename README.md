@@ -2,7 +2,7 @@
 I'm undergraduated Research Assistant in Visualization of Medical image (or Mixed Reality) Lab Gachon Univ. Republic of Korea.
 First of all, thank you for your attention in my works.
 
-# Research Area
+### Research Area
 1. Deep learning (Medical image segmentation)
 2. Visualization ( Direct Volume Rendering )
 
