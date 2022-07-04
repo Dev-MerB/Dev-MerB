@@ -2,7 +2,7 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=jintopia&show_icons=true="/>
   
   ### Jintopia (Hail An) 
-<a href="https://solved.ac/monocono"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=monocono"/></a>  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jintopia1110@gmail.com)
+<a href="https://solved.ac/monocono"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=monocono"/></a>  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jintopia1110@gmail.com)](mailto:jintopia1110@gmail.com)
 
  ---
 <div align="left">
@@ -17,7 +17,7 @@
  
  <br>
  
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jintopia&exclude_repo=Network_Term_Project,Unity_Dijstra_Path_Finder,SE-Term-project,DS_termproject,SWEA,Protfram&layout=compact&langs_count=10"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jintopia&count_private=true&exclude_repo=Network_Term_Project,Unity_Dijstra_Path_Finder,SE-Term-project,DS_termproject,SWEA,Protfram&layout=compact&langs_count=10"/>
  
 <div align="left">
 
