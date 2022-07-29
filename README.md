@@ -17,7 +17,7 @@
  
  <br>
  
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jintopia&exclude_repo=Network_Term_Project,Unity_Dijstra_Path_Finder,SE-Term-project,DS_termproject,SWEA,Protfram&layout=compact&langs_count=10"/>
+ <img align="left" src="https://github-readme-stats-jintopia.vercel.app//api/top-langs/?username=jintopia&hide=HTML&card_width=450&layout=compact&langs_count=10"/>
  
 <div align="left">
 
