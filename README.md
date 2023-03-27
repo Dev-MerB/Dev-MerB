@@ -17,7 +17,7 @@
  
  <br>
  
- <img align="left" src="https://github-readme-stats-jintopia.vercel.app//api/top-langs/?username=Dev-MerB&hide=HTML&card_width=450&layout=compact&langs_count=10"/>
+ <img align="left" src="https://github-readme-stats-jintopia.vercel.app//api/top-langs/?username=Jintopia&hide=HTML&card_width=450&layout=compact&langs_count=10"/>
  
 <div align="left">
 
