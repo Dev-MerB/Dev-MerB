@@ -6,7 +6,7 @@
 
  ---
 <div align="left">
-🔭 I’m currently working at <a href="https://gachon-visualizationandmixedrealitylab.github.io/VOM/">Visualization of Mixed Reality Lab</a><br> as Master's Degree <br>
+🔭 I’m currently working at <a href="https://gachon-visualizationandmixedrealitylab.github.io/VOM/">Visualization of Mixed Reality Lab</a> as Master's Degree <br>
 🌱 I’m currently learning<br>
  1. Visualization(Direct Volume Rendering) <br>
  2. Mixed Reality(Hololens2) <br>
