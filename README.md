@@ -1,7 +1,7 @@
 <div align="center">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=jintopia&count_private=true&show_icons=true="/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Dev-MerB&count_private=true&show_icons=true="/>
   
-  ### Jintopia (Hail An) 
+  ### Dev-MerB (Hail An) 
 <a href="https://solved.ac/monocono"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=monocono"/></a>  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jintopia1110@gmail.com)](mailto:jintopia1110@gmail.com)
 
  ---
@@ -18,7 +18,7 @@
  
  <br>
  
- <img align="left" src="https://github-readme-stats-jintopia.vercel.app//api/top-langs/?username=Jintopia&hide=HTML&card_width=450&layout=compact&langs_count=10"/>
+ <img align="left" src="https://github-readme-stats-jintopia.vercel.app//api/top-langs/?username=Dev-MerB&hide=HTML&card_width=450&layout=compact&langs_count=10"/>
  
 <div align="left">
 
