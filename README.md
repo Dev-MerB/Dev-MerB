@@ -9,8 +9,8 @@
 🔭 I’m currently working at <a href="https://gachon-visualizationandmixedrealitylab.github.io/VOM/">Visualization of Mixed Reality Lab</a> as Master's Degree <br>
 🌱 I’m currently learning<br>
  1. Visualization(Direct Volume Rendering) <br>
- 2. Mixed Reality(Hololens2) <br>
- 3. Deep Learning(Medical image)
+ 2. Deep Learning(Medical image) <br>
+ 3. Mixed Reality(Hololens2)
 </div>
 </div>
 
